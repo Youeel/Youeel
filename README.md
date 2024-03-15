@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is youeel ayman 😚
 - 🌱 I’m currently learning ... c++ and html
-- 📫 How to reach me: ... Facebook, Instagram (youeel elsharony) X (@youeel4)
+- 📫 How to reach me: ... Gmail ( joilayman14@gmail.com) Facebook, Instagram (youeel elsharony) X (@youeel4)
 <!--
 **Youeel/Youeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
